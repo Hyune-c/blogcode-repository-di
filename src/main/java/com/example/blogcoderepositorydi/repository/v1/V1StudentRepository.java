@@ -17,7 +17,7 @@ import org.springframework.stereotype.Repository;
  *
  *
  * - JpaRepository를 extends 합니다.
- *     - SimpleJpaRepository를 target으로 하는 proxy가 생성됩니다.
+ *     - JpaRepository 인터페이스를 target으로 하는 proxy가 생성됩니다.(정확히는 Repository가 아닐까 추측)
  *     - 즉 bean DI에 문제가 없어 정상 작동 합니다.
  * </pre>
  */
