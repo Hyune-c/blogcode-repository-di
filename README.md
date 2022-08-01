@@ -1,6 +1,6 @@
-# Repository를 가볍게 관리하기
+# Repository 가볍게 관리하기
 
-[Blog Link](https://hyune-c.tistory.com/entry/Repository%EB%A5%BC-%EA%B0%80%EB%B3%8D%EA%B2%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
+[Blog Link](https://hyune-c.tistory.com/entry/Repository-%EA%B0%80%EB%B3%8D%EA%B2%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
 
 각 코드에는 javadoc 주석이 존재합니다.
 
